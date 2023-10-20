@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chandrakumar
-- 👀 I’m interested in Web developer 
+- 👀 I’m interested in Web developing 
 - 🌱 I’m currently learning Full Stack Web development
-- 📫 How to reach me itz.chandrakumar@gmail.com
+- 📫 reach me at itz.chandrakumar@gmail.com
 
