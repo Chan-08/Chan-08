@@ -1,6 +1,11 @@
 # 💫 About Me:
 I’m currently working as Full Stack Dveloper <br>
-I'm a Full-Stack Developer passionate about building scalable and high-performance web applications. I have experience working on real-time web development projects, specializing in:<br><br>🚀 Frontend:HTML5, CSS, Angular, JavaScript, TypeScript<br>⚡ Backend: Node.js <br>💾 Databases: SQL, MongoDB<br>🔍 Other Skills: C++, C, Python<br><br>I enjoy solving complex problems and optimizing applications for better efficiency. Always exploring new technologies and improving my skills. Let's build something awesome together!
+I'm a Full-Stack Developer passionate about building scalable and high-performance web applications. I have experience working on real-time web development projects, specializing in:<br>
+<br>
+🚀 Frontend: HTML5, CSS, Angular, JavaScript, TypeScript<br>
+⚡ Backend: Node.js <br>💾 Databases: SQL, MongoDB<br>
+🔍 Other Skills: C++, C, Python<br><br>
+I enjoy solving complex problems and optimizing applications for better efficiency. Always exploring new technologies and improving my skills. Let's build something awesome together!
 
 
 ## 🌐 Socials:
